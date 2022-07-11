@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: “Welcome to our second slide!”
+title: “Welcome to Github tutorials!”
 ---
-Your test
-Use the left arrow to go back
+Your updated Arrays and string test
+Use the right arrow to go back
